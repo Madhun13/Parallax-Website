@@ -56,17 +56,17 @@ section{
 
 
 .bg-1{
-    background-image:url(sport-1.jpg);
+    background-image:url(./assets/sport-1.jpg);
 
 }
 
 .bg-2{
-    background-image:url(sport-2.jpg);
+    background-image:url(./assets/sport-2.jpg);
 
 }
 
 .bg-3{
-    background-image:url(sport-3.jpg);
+    background-image:url(./assets/sport-3.jpg);
 
 }
 .bg{
